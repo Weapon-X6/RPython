@@ -23,7 +23,6 @@ def get_date(datum):
         month = r.group(2)
         day = r.group(3)
     print(r.groups())
-    with open()
 
     print(f"{day}.{month}.{year}")
 
